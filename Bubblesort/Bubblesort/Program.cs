@@ -10,7 +10,7 @@ namespace Bubblesort
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[5] { 5, 37, 748, 68, 4 };
+            int[] arr = new int[] { 5, 37, 748, 68, 4 };
             int temp = 0;
 
 
